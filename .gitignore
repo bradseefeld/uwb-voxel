@@ -1,0 +1,11 @@
+.classpath
+.project
+.settings
+*.launch
+target/*
+*~
+
+*.cmd
+war/
+tomcat/
+

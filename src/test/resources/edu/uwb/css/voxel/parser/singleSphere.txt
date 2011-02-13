@@ -1,0 +1,9 @@
+#################################
+# Some test comments
+#################################
+sphere:
+center=0 1.2 0
+radius=0.2
+mtl-diffuse=0.98 0.48 0.4
+mtl-specular=0.7 0.7 0.7
+mtl-shininess=20
