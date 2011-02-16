@@ -23,4 +23,46 @@ public class Vector3 {
 		
 		return o.x == x && o.y == y && o.z == z;
 	}
+
+	/**
+	 * @param x the x to set
+	 */
+	public void setX(float x) {
+		this.x = x;
+	}
+
+	/**
+	 * @param y the y to set
+	 */
+	public void setY(float y) {
+		this.y = y;
+	}
+
+	/**
+	 * @param z the z to set
+	 */
+	public void setZ(float z) {
+		this.z = z;
+	}
+
+	/**
+	 * @return the x
+	 */
+	public float getX() {
+		return x;
+	}
+
+	/**
+	 * @return the y
+	 */
+	public float getY() {
+		return y;
+	}
+
+	/**
+	 * @return the z
+	 */
+	public float getZ() {
+		return z;
+	}
 }
